@@ -1,2 +1,2 @@
 # Luxury Hotel Asset Recovery
-Operational recovery and inventory-control case study involving ~300 luxury-hotel assets.
+Operational Recovery & Inventory-Control Case Study | ~300 Luxury-Hotel Bedding Assets
